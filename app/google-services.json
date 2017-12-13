@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "900402665260",
+    "firebase_url": "https://dogwalkerapp-601ad.firebaseio.com",
+    "project_id": "dogwalkerapp-601ad",
+    "storage_bucket": "dogwalkerapp-601ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900402665260:android:4b7db306ec45db95",
+        "android_client_info": {
+          "package_name": "br.org.fundatec.dogwalkerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900402665260-24emj84h0737h0kcuip73fap6nk2e9jc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.org.fundatec.dogwalkerapp",
+            "certificate_hash": "927b398600942c4b7f93c1cabc9c9f0eeaf059d4"
+          }
+        },
+        {
+          "client_id": "900402665260-im9vvf5opouuas4r5cj84hlsqd1blunq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBoFpthpy2mkhucT2O2rQ9XkbUtJ81qAY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900402665260-im9vvf5opouuas4r5cj84hlsqd1blunq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

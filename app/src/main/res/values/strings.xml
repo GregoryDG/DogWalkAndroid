@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DogWalkerApp</string>
+    <string name="title_activity_dog_select">DogSelect</string>
+</resources>
