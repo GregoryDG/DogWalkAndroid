@@ -24,7 +24,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".DogWalkerMenu" />
-        <activity android:name=".DogSelect"></activity>
+        <activity android:name=".DogSelect" />
     </application>
 
 </manifest>

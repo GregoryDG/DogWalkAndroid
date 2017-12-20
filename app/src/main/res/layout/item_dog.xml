@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context="br.org.fundatec.dogwalkerapp.DogWalkerListView">
 
-    <ImageView
+    <de.hdodenhof.circleimageview.CircleImageView
         android:id="@+id/imgPerfil"
         android:layout_width="279dp"
         android:layout_height="279dp"
@@ -49,8 +49,9 @@
 
     <TextView
         android:id="@+id/txtDescrip"
-        android:layout_width="303dp"
+        android:layout_width="fill_parent"
         android:layout_height="81dp"
+        android:gravity="center"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginTop="50dp"

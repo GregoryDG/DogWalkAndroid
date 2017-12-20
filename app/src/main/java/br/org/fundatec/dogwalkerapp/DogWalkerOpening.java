@@ -19,7 +19,7 @@ import com.google.firebase.database.ValueEventListener;
 
 public class DogWalkerOpening extends AppCompatActivity {
 
-    private String[] ongNomes = new String[]{"PatasDadas", "101viralatas", "OngTeste3"};
+    private String[] ongNomes = new String[]{"PatasDadas", "101viralatas"};
     private Spinner sp;
     private Button mBtnBuscar;
 

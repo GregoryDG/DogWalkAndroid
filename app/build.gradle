@@ -31,8 +31,12 @@ dependencies {
     compile 'com.android.volley:volley:1.0.0'
     compile 'com.google.code.gson:gson:2.8.0'
     compile 'com.android.support:design:26.+'
+    compile 'de.hdodenhof:circleimageview:2.0.0'
     testCompile 'junit:junit:4.12'
+    annotationProcessor 'com.github.hotchemi:permissionsdispatcher-processor:2.4.0'
 }
+
+
 
 
 
